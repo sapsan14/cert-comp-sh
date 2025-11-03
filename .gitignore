@@ -1,0 +1,38 @@
+# Generated certificate text files
+*.txt
+
+# Generated comparison reports
+certificate_comparison_report.md
+
+# Windows Zone.Identifier files (metadata from downloads)
+*.crt:Zone.Identifier
+*.txt:Zone.Identifier
+*.md:Zone.Identifier
+*:Zone.Identifier
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Certificate files (uncomment if you want to ignore actual certificates)
+# *.crt
+
