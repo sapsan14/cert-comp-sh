@@ -33,6 +33,6 @@ certificate_comparison_report.md
 Thumbs.db
 desktop.ini
 
-# Certificate files (uncomment if you want to ignore actual certificates)
-# *.crt
+# Certificate files
+*.crt
 
